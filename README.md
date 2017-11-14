@@ -7,4 +7,4 @@ Cuenta con una opción para estudiar dividida en:
 - Normas de tránsito y Señalización vial.
 - Los requisito necesarios para poder rendir el examen de conducir, información sobre el examen y que día poder rendirlo.
 - Una simulación de examen con un mínimo de 10 preguntas.
-- Un enlace directo a la página de "Guía de tramites Berazategui" para poder solicitar turno para poder obtener la licencia de conducir de una manera sencilla. Además en esta página se encuentra información sobre clases de ayuda para poder conducir.
+- Un enlace directo a la página de "Guía de tramites Berazategui" para poder solicitar turno y obtener la licencia de conducir de una manera sencilla. Además en esta página se encuentra información sobre clases de ayuda para poder conducir.
